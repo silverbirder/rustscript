@@ -1,0 +1,10 @@
+[package]
+
+name = "rustscript"
+version = "0.0.1"
+authors = ["silverbirder <silverbirder@gmail.com>"]
+
+[dependencies]
+docopt = "0.6"
+regex = "*"
+rustc-serialize = "0.3"
